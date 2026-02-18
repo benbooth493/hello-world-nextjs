@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
         - name: hello-world
-          image: benbooth493/hello-world:baa3e30
+          image: benbooth493/hello-world:29fa8b7
           imagePullPolicy:
           resources:
             requests:
